@@ -1,4 +1,4 @@
-# cyber-sickness
+# Cyber Sickness
 Designing for users with cyber sickness by using https://github.com/UKHomeOffice/posters/ template.
 
 See issue of interest [Add a poster for cyber sickness](https://github.com/UKHomeOffice/posters/issues/83)
